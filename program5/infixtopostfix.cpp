@@ -1,5 +1,5 @@
 /*
- Elizabeth Dresser Wissler
+ Elizabeth Dresser
  Programming II
  Due: February 26, 2018
  Infix to Postfix then Evaluate
