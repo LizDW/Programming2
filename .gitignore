@@ -1,0 +1,4 @@
+# don't include any bin files when staging a commit
+*.bin
+
+
